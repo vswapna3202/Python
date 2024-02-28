@@ -1,5 +1,7 @@
 # This program inputs a string and if the string character is in upper case it is
 # converted to lowercase and if it is in lower case it is converted to uppercase
+# Input: A single line containing string s.
+# Output: String modified with uppercase to lowercase and vice versa.
 if __name__ == '__main__':
     # Input the string
     s = input()
