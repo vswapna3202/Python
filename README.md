@@ -9,3 +9,4 @@ Welcome to the Python directory! This repository contains various Python scripts
 5. [Substring Count](substring.py) - This program finds the number of times substring occurs in a given string and prints the count.
 6. [Mutations](mutations.py) - This program inputs a given string, position and new character. The string is modified at position to have the new character and new string printed.
 7. [String is-a](string_isa.py) - This program checks if a given string is composed of alphanumeric characters, alphabetic characters, digits, uppercase or lowercase characters and prints true or false for each category.
+8. [String Formatting](string_formatting.py) - This program for a given integer n prints for each integer i from 1 to n in decimal, octal, hexadecimal(capitalized) and binary formats. 
