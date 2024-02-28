@@ -7,3 +7,4 @@ Welcome to the Python directory! This repository contains various Python scripts
 3. [String swapcase](string_swapcase.py) - Python program which swaps the case of the string character passed to it. If the string is Hello World it will output hELLO wORLD
 4. [Time Delta](time_delta.py) - Python program which finds the absolute difference between two timestamps in seconds and displays it.
 5. [Substring Count](substring.py) - This program finds the number of times substring occurs in a given string and prints the count.
+6. [Mutations](mutations.py) - This program inputs a given string, position and new character. The string is modified at position to have the new character and new string printed.
