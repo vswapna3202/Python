@@ -17,3 +17,4 @@ Welcome to the Python directory! This repository contains various Python scripts
 13. [Merge the tools](merge_the_tools.py) - This program inputs a string and substring 
 size k and splits the string into size of k and displays only distinct characters in
 substring. Uses textwrap.wrap and dictionary.setdefault methods
+14. [Find the Runner up](array_print.py) - This program given number of scores n inputs all n scores and then finds the runner up from list of scores and displays it. Uses set
