@@ -12,3 +12,4 @@ Welcome to the Python directory! This repository contains various Python scripts
 8. [String Formatting](string_formatting.py) - This program for a given integer n prints for each integer i from 1 to n in decimal, octal, hexadecimal(capitalized) and binary formats.
 9. [Capitalize](capitalize.py) - This program given a string which has full name capitalizes it and prints the full name. 
 10. [Text Wrap](text_wrap.py) - This program wraps a given string by the width inputted and prints the wrapped string using textwrap fill method.
+11. [Find Angle MBC](find_angle.py) - This program finds angle MBC given the length of sides AB and BC for a triangle ABC with midpoint M from angle B to side AC. It rounds the calculated angle to the nearest integer and prints it as °.
