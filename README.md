@@ -20,4 +20,5 @@ substring. Uses textwrap.wrap and dictionary.setdefault methods
 14. [Find the Runner up](array_print.py) - This program given number of scores n inputs all n scores and then finds the runner up from list of scores and displays it. Uses set
 15. [Permutations](list_comprehension.py)  - This program given integers x,y,z for a cuboid and an integer n prints all possible combinations of x,y and z not greater than n and prints the combinations.
 16. [Incorrect Regex](incorrect_regex.py) - This program validates if a given string is a valid regex or not and prints True or False as output. Uses re
-17. [Distinct Country stamps](set.py) - This program counts the total number of distinct country stamps from a list of N stamps and prints the count. 
+17. [Distinct Country stamps](set.py) - This program counts the total number of distinct country stamps from a list of N stamps and prints the count.
+18. [Set operations](set_remove.py) - This program inputs a set with N elements and does operations of pop, remove and discard on it and prints the relevant error messages and displays the sum of all elements in the set 
