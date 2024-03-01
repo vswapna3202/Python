@@ -4,20 +4,19 @@
 # Output: String modified with uppercase to lowercase and vice versa.
 if __name__ == '__main__':
     # Input the string
-    s = input()
+    input_string = input()
 
     # This function swaps the case of the string passed to it.
-    def swap_case(s):
+    def swap_case(string):
         new_string = ""
-        for str in s:
-            # if the str character in string is in uppercase change it to lower
-            # if the str character in string is in lowercase change it to upper
-            if str.isupper() :
-                new_string = new_string + str.lower()
+        for s in string:
+            # if the s character in string is in uppercase change it to lower
+            # if the s character in string is in lowercase change it to upper
+            if s.isupper() :
+                new_string = new_string + s.lower()
             else:
-                new_string = new_string + str.upper()
+                new_string = new_string + s.upper()
         return new_string
-    
-    result = swap_case(s)
+    result = swap_case(input_string)
     print(result)
-
+    
