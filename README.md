@@ -25,3 +25,4 @@ substring. Uses textwrap.wrap and dictionary.setdefault methods
 19. [Unions](unions.py) - This program inputs a set of rollnumbers for students subscribing to english newspapers and french newspapers or both and finds the count of students subscribed to atleast one newspaper. Uses union on sets.
 20. [Student Grade](grade.py) - This program prints the name(s) of students who scored
 the second lowest score in ascending order. Uses set and nested lists.
+21. [Student Marks](student_marks.py) - This program accepts n number of students name and their marks and for a particular student input by the user calculates the average of the marks and displays it.
