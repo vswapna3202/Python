@@ -30,3 +30,4 @@ the second lowest score in ascending order. Uses set and nested lists.
 the commands on a list
 23. [Tuples](hash.py) - This program accepts n which number of elements in a tuple and 
 also all the elements in the tuple and performs hash on the tuple and prints it.
+24. [Split-and-Join](split_join.py) - This program accepts a string separated with spaces and displays the same string separated with hyphens (-)
