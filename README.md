@@ -28,3 +28,5 @@ the second lowest score in ascending order. Uses set and nested lists.
 21. [Student Marks](student_marks.py) - This program accepts n number of students name and their marks and for a particular student input by the user calculates the average of the marks and displays it.
 22. [List Operations](list.py) - This perform accepts number of commands and performs
 the commands on a list
+23. [Tuples](hash.py) - This program accepts n which number of elements in a tuple and 
+also all the elements in the tuple and performs hash on the tuple and prints it.
