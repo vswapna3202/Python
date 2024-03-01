@@ -31,3 +31,4 @@ the commands on a list
 23. [Tuples](hash.py) - This program accepts n which number of elements in a tuple and 
 also all the elements in the tuple and performs hash on the tuple and prints it.
 24. [Split-and-Join](split_join.py) - This program accepts a string separated with spaces and displays the same string separated with hyphens (-)
+25. [Designer Doormat](designer_doormat.py) - This program prints a designer doormat with a welcome sign in the middle and accepts the size of the door mat as N and M integers where N is odd and M is 3 times of N.
