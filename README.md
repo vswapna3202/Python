@@ -37,3 +37,4 @@ each word finds the number of occurences and also displays total number of words
 27. [Itertools](itertools_comb_with_replacement.py) - This program accepts string S and integer k and prints all possible k combinations of string S in lexicographic sorted order. Uses itertools.combination_with_replacement
 28. [Itertools](itertools_product.py) - This program accepts inputs of list A and list B and computes the cartesian product of list A and B and prints it as space separated tuples. Uses itertools.product
 29. [Itertools](itertools_permutations.py) - This program accepts input string S and integer k and prints all k possible permutations of string S in lexicographic sorted order. Uses itertools.permutations
+30.  [Minions Game](minions.py) - This program accepts a string S and lets 2 players play the minion game. It counts the number of substrings starting with vowels and consonants and prints the winner of the highest score.
