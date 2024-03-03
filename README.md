@@ -38,4 +38,5 @@ each word finds the number of occurences and also displays total number of words
 28. [Itertools](itertools_product.py) - This program accepts inputs of list A and list B and computes the cartesian product of list A and B and prints it as space separated tuples. Uses itertools.product
 29. [Itertools](itertools_permutations.py) - This program accepts input string S and integer k and prints all k possible permutations of string S in lexicographic sorted order. Uses itertools.permutations
 30.  [Minions Game](minions.py) - This program accepts a string S and lets 2 players play the minion game. It counts the number of substrings starting with vowels and consonants and prints the winner of the highest score.
-31. [Deque](deque.py) - This program demonstrates the operations like append, appendleft, pop, popleft on a deque collection which can perform insert and remove operations on elements in queue. Uses deque from collections
+31. [Deque](deque.py) - This program demonstrates the operations like append, appendleft, pop, popleft on a deque collection which can perform insert and remove operations on elements in queue. Uses deque from collections.
+32. [Mickey's sets](mickeys_sets.py) - This program calculates the average of all plants with distinct heights in the greenhouse for botany teacher Mickey and prints it. Uses sets

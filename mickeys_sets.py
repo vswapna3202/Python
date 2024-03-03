@@ -1,5 +1,5 @@
-# This program helps Ms. Gabriel Williams who is a botany professor at District 
-# College. One day, she asked her student Mickey to compute the average of all 
+# This program helps Ms. Gabriel Williams who is a botany professor at District
+# College. One day, she asked her student Mickey to compute the average of all
 # the plants with distinct heights in her greenhouse.
 # Formula used: Sum of Distinct Heights / Total number of distinct heights.
 # Input: The first line contains the integer, N , the size of arr.
