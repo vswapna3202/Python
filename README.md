@@ -34,3 +34,5 @@ also all the elements in the tuple and performs hash on the tuple and prints it.
 25. [Designer Doormat](designer_doormat.py) - This program prints a designer doormat with a welcome sign in the middle and accepts the size of the door mat as N and M integers where N is odd and M is 3 times of N.
 26. [Word Order](words.py) - This program accepts n which are number of words and for
 each word finds the number of occurences and also displays total number of words. Uses Ordered Dictionary from collections
+27. [Itertools](itertools_comb_with_replacement.py) - This program accepts string S and integer k and prints all possible k combinations of string S in lexicographic sorted order. Uses itertools.combination_with_replacement
+28.
