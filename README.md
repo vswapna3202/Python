@@ -36,3 +36,4 @@ also all the elements in the tuple and performs hash on the tuple and prints it.
 each word finds the number of occurences and also displays total number of words. Uses Ordered Dictionary from collections
 27. [Itertools](itertools_comb_with_replacement.py) - This program accepts string S and integer k and prints all possible k combinations of string S in lexicographic sorted order. Uses itertools.combination_with_replacement
 28. [Itertools](itertools_product.py) - This program accepts inputs of list A and list B and computes the cartesian product of list A and B and prints it as space separated tuples. Uses itertools.product
+29. [Itertools](itertools_permutations.py) - This program accepts input string S and integer k and prints all k possible permutations of string S in lexicographic sorted order. Uses itertools.permutations
