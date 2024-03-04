@@ -40,3 +40,4 @@ each word finds the number of occurences and also displays total number of words
 30.  [Minions Game](minions.py) - This program accepts a string S and lets 2 players play the minion game. It counts the number of substrings starting with vowels and consonants and prints the winner of the highest score.
 31. [Deque](deque.py) - This program demonstrates the operations like append, appendleft, pop, popleft on a deque collection which can perform insert and remove operations on elements in queue. Uses deque from collections.
 32. [Mickey's sets](mickeys_sets.py) - This program calculates the average of all plants with distinct heights in the greenhouse for botany teacher Mickey and prints it. Uses sets
+33. [Compress the string](compress_the_string.py) - This program accepts an input string s and displays the number of consecutive characters for each character in string followed by the character and separated by a comma. Uses groupby from itertools.
