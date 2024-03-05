@@ -47,3 +47,4 @@ each word finds the number of occurences and also displays total number of words
 37. [Triangle Quest](triangle_quest.py) - This program accepts size N and prints a palindromic triangle. It also prints a right-angled triangle with repeated values of digits in each row of size N. It also prints a centered triangle of repeated digits of size N. And finally prints a centered palindromic triangle of size N.
 38. [Iterables](iterables.py) - This program accepts N number of space separated lower case english letters and also accepts k an integer and finds the probability of atleast one of the k indices containing letter 'a'.
 39. [Maximize It](maximize_it.py) - This program finds the maximum of sum of all squares of integer numbers input in N different lists.
+40. [Fibonacci Cubes](fibonacci.py) - This program generates cubes of each N numbers i n the fibonacci series and prints the cubed series.
