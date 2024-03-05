@@ -6,8 +6,8 @@
 #         denoting the elements of the list.
 #         The third and the last line of input contains the integer K, denoting the number 
 #         of indices to be selected.
-# Output: Output a single line consisting of the probability that at least one of 
-#         the  indices selected contains the letter:'a'.
+# Output: Output a single line consisting of the probability that at least one of  
+#         the K indices selected contains the letter:'a'.
 # Note: The answer is corrected up to 3 decimal places.
 # Import relevant libraries
 from itertools import combinations
